@@ -1,0 +1,6 @@
+CompileFlags:
+    Add: [-lraylib, -lopengl32, -lgdi32, -lwinmm]
+    Compiler: gcc
+
+InlayHints:
+    ParameterNames: false
